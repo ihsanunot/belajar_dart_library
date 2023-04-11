@@ -9,4 +9,4 @@ dart pub global activate --source git <Git URL>
 baru di push ke github
 
 - referensi:
-[https://dart.dev/tools/pub/cmd/pub-global#activating-a-package]
+https://dart.dev/tools/pub/cmd/pub-global#activating-a-package
